@@ -1,0 +1,9 @@
+{
+  "project": "JRIH Audit Anchors",
+  "repo": "bkal169/jrih-audit-anchors",
+  "purpose": "Audit-anchor reference repo for the JRIH ecosystem (canonical audit checkpoints).",
+  "memory": [
+    { "type": "note", "content": "Docs/canon only — no app runtime yet." },
+    { "type": "decision", "content": "Intended as a stable anchor other JRIH repos reference; keep minimal and authoritative." }
+  ]
+}
